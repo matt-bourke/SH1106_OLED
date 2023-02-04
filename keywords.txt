@@ -1,0 +1,33 @@
+SH1106_OLED				KEYWORD1
+
+init					KEYWORD2
+display					KEYWORD2
+getPixel				KEYWORD2
+setPixel				KEYWORD2
+clearPixel				KEYWORD2
+invertPixel				KEYWORD2
+clear					KEYWORD2
+invert					KEYWORD2
+setFontSize				KEYWORD2
+print					KEYWORD2
+drawBitmap				KEYWORD2
+drawHLine				KEYWORD2
+drawVLine				KEYWORD2
+drawLine				KEYWORD2
+drawRect				KEYWORD2
+drawRectFill			KEYWORD2
+drawRoundedRect			KEYWORD2
+drawRoundedRectFill		KEYWORD2
+drawCircle				KEYWORD2
+drawCircleFill			KEYWORD2
+drawArc					KEYWORD2
+drawArcFill				KEYWORD2
+drawArcRaw				KEYWORD2
+drawTriangle			KEYWORD2
+drawTriangleFill		KEYWORD2
+displayBattery			KEYWORD2
+
+TOP_LEFT				KEYWORD3
+TOP_RIGHT				KEYWORD3
+BOTTOM_RIGHT			KEYWORD3
+BOTTOM_LEFT				KEYWORD3
